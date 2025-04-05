@@ -66,13 +66,13 @@ Core Features:
 
 ### 5. Methods to Engage Athletes Directly
 
-• Mobile Apps & Cognitive Challenges
+• Mobile Apps & Cognitive Challenges.
 
-• Incentives & Leaderboards
+• Incentives & Leaderboards.
 
-• Anonymous Structured Feedback Systems
+• Anonymous Structured Feedback Systems.
 
-• Workshops & Assessment Days
+• Workshops & Assessment Days.
 
 ### 6. Long-term Impact
 
