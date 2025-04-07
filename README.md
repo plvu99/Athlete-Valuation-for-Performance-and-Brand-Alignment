@@ -1,18 +1,18 @@
 # 🏅 Data-Driven Athlete Valuation for Performance and Brand Alignment
 
-## Product Overview
+## 📝 Product Overview
 Cache AI utilizes a strong foundation of analytics, including game performance stats, social media metrics, and sideline behavior data, to deliver precise athlete valuations. By offering unbiased, data-driven insights, Cache AI empowers athletes, teams, and brands to understand, measure, and optimize the value of sports' most critical asset: the athlete.
 
 Core Features:
 - **CacheScoreTM** – A comprehensive rubric measuring an athlete’s brand strength, assessing factors like marketability, influence, and engagement.
 - **CacheValueTM** – A precise, AI-driven assessment of an athlete’s fair market value, ensuring equitable compensation and strategic decision-making.
 
-## Objectives 
+## 🎯 Objectives 
 1. What additional data sources and metrics can meaningfully enhance Cache AI’s current valuation model?
 
 2. How can new and existing athlete data be systematically integrated and visualized to provide actionable, role-specific insights?
 
-## Deliverables
+## 📦 Deliverables
 
 ### 1. Solution Overview
 - A concise summary of how proposed data points enhance Cache AI’s valuation framework.
