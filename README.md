@@ -14,6 +14,8 @@ Core Features:
 
 ## 📦 Deliverables
 
+<img width="801" alt="Screenshot 2025-04-10 at 22 59 31" src="https://github.com/user-attachments/assets/e14d71a1-4325-4b99-9e01-d49de426a7e5" />
+
 ### 1. Solution Overview
 - A concise summary of how proposed data points enhance Cache AI’s valuation framework.
 - Highlight the value added by new metrics for each user group.
