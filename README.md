@@ -8,9 +8,10 @@ Core Features:
 - **CacheValueTM** – A precise, AI-driven assessment of an athlete’s fair market value, ensuring equitable compensation and strategic decision-making.
 
 ## 🎯 Objectives 
-1. What additional data sources and metrics can meaningfully enhance Cache AI’s current valuation model?
 
-2. How can new and existing athlete data be systematically integrated and visualized to provide actionable, role-specific insights?
+_**1. What additional data sources and metrics can meaningfully enhance Cache AI’s current valuation model?**_
+
+_**2. How can new and existing athlete data be systematically integrated and visualized to provide actionable, role-specific insights?**_
 
 ## 📦 Deliverables
 
